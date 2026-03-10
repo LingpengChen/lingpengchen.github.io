@@ -11,7 +11,7 @@ paperurl: "https://scholar.google.com/scholar?q=Hierarchical+Multi-Modal+Plannin
 link: "https://scholar.google.com/scholar?q=Hierarchical+Multi-Modal+Planning+for+Fixed-Altitude+Sparse+Target+Search+and+Sampling"
 header:
   teaser: publications/himos.gif
-teaser_max_width: "560px"
+teaser_max_width: "420px"
 ---
 
 This work develops a hierarchical multi-modal planning framework for fixed-altitude sparse target search and sampling.
