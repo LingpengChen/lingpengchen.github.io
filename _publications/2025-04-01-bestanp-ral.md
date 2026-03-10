@@ -6,7 +6,7 @@ permalink: /publication/bestanp-ral-2025
 excerpt: "A bi-step efficient and statistically optimal estimator for acoustic-n-point localization."
 date: 2025-04-01
 venue: "IEEE Robotics and Automation Letters (RA-L)"
-authors: "Wenliang Sheng, Hongxu Zhao, Lingpeng Chen*, Guangyang Zeng, Yunling Shao, Yuze Hong, Chao Yang, Ziyang Hong, Junfeng Wu"
+authors: "Wenliang Sheng*, Hongxu Zhao*, <strong>Lingpeng Chen</strong>*, Guangyang Zeng, Yunling Shao, Yuze Hong, Chao Yang, Ziyang Hong, Junfeng Wu"
 author_note: "* co-first author"
 paperurl: "https://ieeexplore.ieee.org/document/10950080"
 link: "https://ieeexplore.ieee.org/document/10950080"

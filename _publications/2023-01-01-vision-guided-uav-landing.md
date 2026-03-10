@@ -6,7 +6,7 @@ permalink: /publication/vision-guided-uav-landing-rcar-2023
 excerpt: "Vision-guided landing of UAVs on swaying ocean platforms in simulation."
 date: 2023-01-01
 venue: "RCAR 2023"
-authors: "Lingpeng Chen, Chongfeng Liu, Shuqi Guo, Huihuan Qian"
+authors: "<strong>Lingpeng Chen</strong>, Chongfeng Liu, Shuqi Guo, Huihuan Qian"
 paperurl: "https://ieeexplore.ieee.org/document/10249476"
 link: "https://ieeexplore.ieee.org/document/10249476"
 header:

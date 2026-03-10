@@ -13,7 +13,7 @@ I received my bachelor's degree from CUHK-Shenzhen, supervised by **Prof. Huihua
 
 I am currently supervised by **Prof. Junfeng Wu** and **Prof. Ziyang Hong**, and we focus on underwater robotics. You are welcome to visit our lab website: [LIAS @ CUHK-Shenzhen](https://lias-cuhksz.github.io/).
 
-<img src="/images/main.gif" alt="Underwater robotics demo" style="width:100%; max-width:900px;" />
+<img src="/images/main.gif" alt="Underwater robotics demo" style="width:100%; max-width:640px;" />
 
 My research interests include:
 - Robot perception and mapping in underwater visually degraded environments
