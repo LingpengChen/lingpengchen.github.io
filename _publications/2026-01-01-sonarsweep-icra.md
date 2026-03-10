@@ -11,7 +11,7 @@ paperurl: "https://arxiv.org/abs/2511.00392"
 link: "https://arxiv.org/abs/2511.00392"
 header:
   teaser: publications/sonarsweep.gif
-teaser_max_width: "420px"
+teaser_max_width: "520px"
 
 ---
 
