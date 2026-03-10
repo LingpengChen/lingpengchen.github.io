@@ -43,7 +43,8 @@
     </h2>
 
     {% if post.collection == 'publications' and include.type != "grid" and teaser %}
-      <div class="archive__item-teaser">
+      {% assign teaser_max_width = post.teaser_max_width | default: "560px" %}
+      <div class="archive__item-teaser" style="max-width: {{ teaser_max_width }};">
         <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
@@ -51,7 +52,7 @@
             "{{ teaser | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
           alt=""
-          style="max-width: 56S0px; width: 100%;">
+          style="width: 100%;">
       </div>
     {% endif %}
     
