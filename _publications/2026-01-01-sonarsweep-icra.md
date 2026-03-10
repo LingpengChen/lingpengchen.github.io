@@ -11,6 +11,8 @@ paperurl: "https://arxiv.org/abs/2511.00392"
 link: "https://arxiv.org/abs/2511.00392"
 header:
   teaser: publications/sonarsweep.gif
+teaser_max_width: "560px"
+
 ---
 
 SonarSweep fuses sonar and visual sensing to improve robustness of underwater 3D reconstruction in degraded visual conditions.

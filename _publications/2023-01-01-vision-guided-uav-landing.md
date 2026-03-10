@@ -11,6 +11,7 @@ paperurl: "https://ieeexplore.ieee.org/document/10249476"
 link: "https://ieeexplore.ieee.org/document/10249476"
 header:
   teaser: publications/ocean_landing.gif
+teaser_max_width: "700px"
 ---
 
 This work studies robust UAV landing on a dynamically moving ocean platform using vision guidance in simulation.

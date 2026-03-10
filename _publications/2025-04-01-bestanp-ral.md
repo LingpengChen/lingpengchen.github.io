@@ -12,6 +12,7 @@ paperurl: "https://ieeexplore.ieee.org/document/10950080"
 link: "https://ieeexplore.ieee.org/document/10950080"
 header:
   teaser: publications/bestanp.png
+teaser_max_width: "700px"
 ---
 
 BESTAnP introduces an efficient and statistically optimal estimator for the acoustic-n-point problem.

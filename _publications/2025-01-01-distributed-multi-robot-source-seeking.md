@@ -11,6 +11,7 @@ paperurl: "https://arxiv.org/abs/2503.11048"
 link: "https://arxiv.org/abs/2503.11048"
 header:
   teaser: publications/multi-agent.png
+teaser_max_width: "700px"
 ---
 
 We propose a distributed multi-robot framework for source-seeking in unknown environments when the number of sources is unknown.
