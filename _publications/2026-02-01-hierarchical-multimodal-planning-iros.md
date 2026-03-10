@@ -1,0 +1,14 @@
+---
+title: "Hierarchical Multi-Modal Planning for Fixed-Altitude Sparse Target Search and Sampling"
+collection: publications
+category: conferences
+permalink: /publication/hierarchical-multimodal-planning-iros-2026
+excerpt: "Hierarchical multi-modal planning for sparse target search and sampling at fixed altitude."
+date: 2026-02-01
+venue: "IROS 2026 (Under Review)"
+citation: "Hierarchical Multi-Modal Planning for Fixed-Altitude Sparse Target Search and Sampling. Submitted to IROS, 2026."
+---
+
+This work develops a hierarchical multi-modal planning framework for fixed-altitude sparse target search and sampling.
+
+**Status:** Under review at IROS 2026.
