@@ -23,7 +23,7 @@ repository               : "lingpengchen/lingpengchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my-photo.jpg"
   name             : "Lingpeng Chen"
   pronouns         : # example: "she/her"  
   bio              : "Second-year Ph.D. student in underwater robotics at CUHK-Shenzhen."
