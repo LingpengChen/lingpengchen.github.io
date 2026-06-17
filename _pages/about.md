@@ -21,7 +21,8 @@ My research interests include:
 - Underwater robotic systems
 
 ## Recent News
+- **2026-06**: Our paper *Provably Guaranteed Polytopic Uncertainty Quantification for SLAM* is accepted by **RSS 2026**.
+- **2026-06**: Our paper *Hierarchical Multi-Modal Planning for Fixed-Altitude Sparse Target Search and Sampling* is accepted by **IROS 2026**.
 - **2026-03**: Our paper *SonarSweep: Fusing Sonar and Vision for Robust 3D Reconstruction via Plane Sweeping* is accepted by **ICRA 2026**.
-- **2026-02**: We submitted *Hierarchical Multi-Modal Planning for Fixed-Altitude Sparse Target Search and Sampling* to **IROS 2026**.
 - **2025-04**: *BESTAnP: Bi-Step Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem* is accepted by **IEEE RA-L** (co-first author).
 - **2025-01**: *Distributed Multi-robot Source Seeking in Unknown Environments with Unknown Number of Sources* is selected as a **Best Paper Finalist** at **ICRA 2025**.
