@@ -6,7 +6,7 @@ permalink: /publication/hierarchical-multimodal-planning-iros-2026
 excerpt: "Hierarchical multi-modal planning for sparse target search and sampling at fixed altitude."
 date: 2026-02-01
 venue: "IROS 2026"
-authors: "<strong>Lingpeng Chen</strong>, et al."
+authors: "<strong>Lingpeng Chen</strong>, Yuchen Zheng, Apple Pui-Yi Chui, Junfeng Wu, and Ziyang Hong"
 paperurl: "https://scholar.google.com/scholar?q=Hierarchical+Multi-Modal+Planning+for+Fixed-Altitude+Sparse+Target+Search+and+Sampling"
 link: "https://scholar.google.com/scholar?q=Hierarchical+Multi-Modal+Planning+for+Fixed-Altitude+Sparse+Target+Search+and+Sampling"
 header:
